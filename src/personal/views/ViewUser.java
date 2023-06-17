@@ -20,6 +20,7 @@ public class ViewUser {
         Commands com = Commands.NONE;
 
         while (true) {
+            System.out.println();
             String command = prompt("Введите команду: ");
             try {
                 com = Commands.valueOf(command.toUpperCase());
