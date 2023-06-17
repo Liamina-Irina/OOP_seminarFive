@@ -1,0 +1,2 @@
+1,Karina,Sergeeva,+79180000000
+2,Ivan,Ray,+79280000000
